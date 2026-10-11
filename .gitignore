@@ -1,0 +1,11 @@
+# 逐字稿和聊天记录：可能含他人发言，别提交
+transcripts/
+*.md
+!README.md
+
+# 凭证
+*.json
+.env*
+
+.DS_Store
+*.pyc
